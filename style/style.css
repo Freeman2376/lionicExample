@@ -1,0 +1,14 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.header {
+    display: block;
+}
+
+.container {
+    display: inline-block;
+    width: 70%;
+}
